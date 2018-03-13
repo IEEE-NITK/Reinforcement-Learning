@@ -1,0 +1,2 @@
+model_checkpoint_path: "pg_5307.ckpt"
+all_model_checkpoint_paths: "pg_5307.ckpt"
